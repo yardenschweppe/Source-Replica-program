@@ -14,8 +14,11 @@ In order to run the program:
 - On Command line arguments enter the path of your Source folder then on new line enter the second argument of Replica path, then the seconds and then the logfile.txt path
 For example : 
 "C:\Users\yarde\source\repos\VeeamAssignment\Source"
+
 "C:\Users\yarde\source\repos\VeeamAssignment\Replica"
-15
+
+ 15
+ 
 "C:\Users\yarde\source\repos\VeeamAssignment\logFile.txt"
 
 5. Run the program 
