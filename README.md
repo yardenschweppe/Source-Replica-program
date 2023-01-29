@@ -15,7 +15,6 @@ In order to run the program:
 For example : 
 "C:\Users\yarde\source\repos\VeeamAssignment\Source"
 "C:\Users\yarde\source\repos\VeeamAssignment\Replica"
-
 15
 "C:\Users\yarde\source\repos\VeeamAssignment\logFile.txt"
 
