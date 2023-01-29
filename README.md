@@ -13,6 +13,7 @@ In order to run the program:
 - Click on "Open debug launch profiles UI"
 - On Command line arguments enter the path of your Source folder then on new line enter the second argument of Replica path, then the seconds and then the logfile.txt path
 For example : 
+
 "C:\Users\yarde\source\repos\VeeamAssignment\Source"
 
 "C:\Users\yarde\source\repos\VeeamAssignment\Replica"
